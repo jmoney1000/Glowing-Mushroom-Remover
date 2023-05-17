@@ -1,9 +1,9 @@
 {
-    "name": "Glowing_Mushroom_Remover,
+    "name": "Glowing_Mushroom_Remover",
     "version_number": "1.0.0",
-    "website_url": "https://www.nexusmods.com/valheim/mods/933",
+    "website_url": "https://github.com/jmoney1000/Glowing-Mushroom-Remover.git",
     "description": "Ever accidentally spawned a BEAUTIFUL glowing mushroom but got tired of looking at it? This mod allows you to PERMANENTLY remove them! to remove and press F8.",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+       
     ]
 }
